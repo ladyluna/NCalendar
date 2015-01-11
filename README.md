@@ -9,7 +9,7 @@ new NCalendar($('#ny-dropdown-afisha-datepicker'));
 
 Пример Шаблона (underscore):
 
-<!-- Calendar -->
+
         <span class="ny-pseudo-select ny-pseudo-select_datepicker js-popup-link" tabindex="0" data-popup-type="small" data-popup="ny-dropdown-afisha-datepicker" data-popup-align="left">
             <span class="ny-pseudo-select__content">Календарь</span>
         </span>
@@ -75,4 +75,3 @@ new NCalendar($('#ny-dropdown-afisha-datepicker'));
             </script>
 
         </div>
-  <!-- /Calendar -->
