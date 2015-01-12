@@ -3,9 +3,13 @@ NCalendar
 
 Календарь на заданные месяцы
 
-Пример Инициализации js:
+---
 
-new NCalendar($('#ny-dropdown-afisha-datepicker'));
+Пример инициализации:
+
+        new NCalendar($('#ny-dropdown-afisha-datepicker'));
+
+---
 
 Пример Шаблона (underscore):
 
